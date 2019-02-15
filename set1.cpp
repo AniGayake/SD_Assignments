@@ -106,7 +106,7 @@ int compare(int key,int set[],int s)
 return c;
 		
 }
-
+g
 int difference(int set1[],int set2[],int set3[],int s1,int s2)
 {
 	int set[20],k=0;
@@ -122,7 +122,6 @@ int difference(int set1[],int set2[],int set3[],int s1,int s2)
 	}
 	return k;
 }
-
 
 
 
